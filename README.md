@@ -214,6 +214,6 @@ git add . && git commit -m "Made someone smile today ✨" && git push origin mai
 
 <br/>
 
-**Made with 💙 by [Galih Khairi](https://github.com/pack467)**
+**Made with 💙 by [Mhd. Galih Khairi](https://github.com/pack467)**
 
 </div>
