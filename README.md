@@ -61,22 +61,12 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pack467&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pack467&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" />
 </div>
 <br/>
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pack467&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=060A0CD0" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pack467&layout=compact&theme=tokyonight&hide_border=true&bg_color=060A0CD0" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pack467&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
 </div>
 
 ---
@@ -100,9 +90,6 @@
   </a>
   <a href="https://github.com/pack467">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
