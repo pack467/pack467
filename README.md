@@ -1,84 +1,113 @@
-<!-- Banner / Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFC300&size=28&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mhd.+Galih+Khairi;Computer+Science+Graduate;Web+Developer+%7C+AI+Enthusiast;Multimedia+Designer+%7C+Tech+Explorer;Welcome+to+my+GitHub+Profile!" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=79C0FF&size=32&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mhd.+Galih+Khairi;Computer+Science+Graduate;Web+Developer+%7C+AI+Enthusiast;Multimedia+Designer+%7C+Tech+Explorer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3>🚀 Code. Create. Improve. Repeat.</h3>
+  <code>sudo apt-get install skill && sudo systemctl enable focus</code>
+</div>
 
 ---
 
-<!-- About Me -->
-## 👋 About Me  
-<p align="center">
-I'm <b>Galih</b>, a Computer Science graduate from <b>Medan, Indonesia</b>.<br/>
-Focused on <b>web development</b>, <b>AI integration</b>, and <b>multimedia design</b>.<br/>
-I love creating systems that are useful, beautiful, and impactful.
-</p>
+## 👋 About Me
 
-<p align="center">
-🚀 <i>Code. Create. Improve. Repeat.</i><br/>
-📌 <i>sudo apt-get install skill && sudo systemctl enable focus</i>
-</p>
+<div align="center">
+  I'm <b>Galih</b>, a Computer Science graduate from <b>Medan, Indonesia 🇮🇩</b>.<br/>
+  Focused on <b>web development</b>, <b>AI integration</b>, and <b>multimedia design</b>.<br/>
+  <i>I love creating systems that are useful, beautiful, and impactful.</i>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">🔭 I’m currently working on</td>
+      <td align="left"><b>Web Apps & AI Integration</b></td>
+    </tr>
+    <tr>
+      <td align="left">🌱 I’m currently learning</td>
+      <td align="left"><b>Advanced Machine Learning & Cloud Architecture</b></td>
+    </tr>
+    <tr>
+      <td align="left">⚡ Fun fact</td>
+      <td align="left"><b>I blend code with artistic visuals!</b></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,react,nextjs,express,java,python,mysql,postgres,linux,docker,git,github,figma,ps,ai,pr,blender&perline=10" />
-</p>
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python&theme=dark" />
+
+**Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,bootstrap,tailwind&theme=dark" />
+
+**Databases & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux&theme=dark" />
+
+**Design & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,pr,blender&theme=dark" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Insights
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pack467&theme=tokyonight&hide_border=false" />
-</p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pack467&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pack467&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pack467&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak" />
+</div>
+<br/>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pack467&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=060A0CD0" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pack467&layout=compact&theme=tokyonight&hide_border=true&bg_color=060A0CD0" />
+</div>
 
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pack467&theme=onestar&no-frame=false&row=1&column=6" />
-</p>
 
----
-
-# 🟡 Pac-Man Kuning Mode (Custom)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pack467&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
 
 ---
 
 ## ⚡ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pack467&theme=github-compact&hide_border=false&area=true" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pack467&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
 ## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mhd-galih-khairi-033255181/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mhd-galih-khairi-033255181/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mgalihkhairi1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/pack467">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   ⭐ <b>If you like my work, feel free to star some repositories!</b> ⭐
-</p>
+</div>
