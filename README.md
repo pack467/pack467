@@ -15,16 +15,33 @@
 
 ---
 
+<div align="center">
+
 ### 🚀 About Me
 
-```javascript
-const galih = {
-  role: "Full Stack Developer & Creative Technologist",
-  focus: "Building intelligent, beautiful web applications",
-  learning: "Advanced ML & Cloud Architecture",
-  motto: "Code. Create. Improve. Repeat. 🔄"
-};
-```
+*Passionate developer who turns ideas into elegant, intelligent digital experiences.*  
+*Blending clean code with creative design to build things that matter.*
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <h4>💼 Role</h4>
+      Full Stack Developer<br/>& Creative Technologist
+    </td>
+    <td align="center" width="200">
+      <h4>🎯 Focus</h4>
+      Building intelligent,<br/>beautiful web apps
+    </td>
+    <td align="center" width="200">
+      <h4>🌱 Learning</h4>
+      Advanced ML &<br/>Cloud Architecture
+    </td>
+  </tr>
+</table>
+
+**`Code. Create. Improve. Repeat. 🔄`**
+
+</div>
 
 ---
 
